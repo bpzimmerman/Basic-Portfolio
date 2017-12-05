@@ -151,6 +151,7 @@ textarea{
     border: 1px solid #3d69ab;
     margin: 8px 0px 20px 0px;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 input[type=submit]{
@@ -179,7 +180,7 @@ input[type=submit]{
     background-color: #3d69ab;
     padding: 10px;
     position: absolute;
-    top: -37px;
+    top: -36.5px;
     left: 0px;
     z-index: 100;
 }
